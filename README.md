@@ -3,9 +3,10 @@
 
 ### Machine Learning Course — MEEC FEUP, 2025
 
-## Project Grade
+### Project Grade
 The project was awarded a grade of **20/20**.
 
+### Project Objectives and Approach
 This repository contains **Project 1** from the *Machine Learning* course at **FEUP**. The project applies **machine learning techniques** to **2D sensor data**, specifically using **LiDAR measurements** to model and predict trajectory data. The project explores regression models like **Ridge** and **LASSO regression**, focusing on the following objectives:
 
 - **2D state estimation** using **Kalman Filter**
