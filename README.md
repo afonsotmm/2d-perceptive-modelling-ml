@@ -42,7 +42,8 @@ The project relies on the following libraries:
 ## Authors
 This project was developed as part of **Machine Learning Project 1** at **FEUP** (2025).
 
-[Afonso Mateus], [David Salazar]*
+* *Afonso Mateus*  afonso.tomas.mateus@gmail.com
+* *David Brás*  davidfsbras@gmail.com
 
 ---
 
